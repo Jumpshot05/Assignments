@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+#box1{
+    background-color: aqua;
+}
+
+#box2{
+    background-color: greenyellow;
+    
+}
+
+#box3{
+    background-color: pink;
+    width: 300px;
+    border:15px solid green;
+    padding:65px;
+    /* margin-left:450px; */
+    margin: auto;
+}
